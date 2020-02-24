@@ -1,15 +1,15 @@
 {
     "email": "killlikeskill1711@gmail.com",
     "password": "Niki1711",
-    "cid": "CID_022_athena_commando_f",
-    "bid": "BID_001_BlueSquire",
-    "eid": "EID_Wave",
+    "cid": "cid_028_athena_commando_f",
+    "bid": "bid_138_celestial",
+    "eid": "EID_Floss",
     "banner": "otherbanner24",
     "banner_colour": "defaultcolor12",
     "level": 110,
     "bp_tier": 100,
     "status": "rap l nxklas' Bot",
-    "platform": "WIN",
+    "platform": "XBOX",
     "debug": false,
-    "friendaccept": true
+    "friendaccept": false
 }
