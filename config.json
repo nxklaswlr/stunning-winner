@@ -1,15 +1,15 @@
 {
     "email": "killlikeskill1711@gmail.com",
     "password": "Niki1711",
-    "cid": "CID_022_athena_commando_f",
+    "cid": "cid_033_athena_commando_f_medieval",
     "bid": "BID_001_BlueSquire",
     "eid": "EID_Wave",
     "banner": "otherbanner24",
     "banner_colour": "defaultcolor12",
     "level": 110,
     "bp_tier": 100,
-    "status": "rap l nxklas' Bot",
+    "status": "BATTLE ROYALE LOBBY 1/16",
     "platform": "WIN",
     "debug": false,
-    "friendaccept": true
+    "friendaccept": false
 }
